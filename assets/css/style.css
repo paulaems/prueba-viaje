@@ -1,0 +1,26 @@
+body {
+    background-color: #000000;
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+}
+
+nav {
+    background-color: #3197a3;
+}
+
+.card {
+background-color: #3197a3;
+
+}
+
+footer{
+    background-color: #3197a3;
+}
+
+.iconos {
+background-color: #3197a3;
+text-align: center;
+padding: 2px;
+}
+
+
